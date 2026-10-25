@@ -1,2 +1,10 @@
 # gioi-thieu-ban-than
-Trang giới thiệu cá nhân - Bài tập ở nhà môn CNPM
+
+Tên: Trần Nhật Khánh Phương
+MSV: 25S1020082
+Ngày sinh: 28/04/2006
+
+Giới tính: Nữ
+
+Lớp: Tin 2A
+
