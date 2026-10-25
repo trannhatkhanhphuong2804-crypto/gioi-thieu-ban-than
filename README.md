@@ -8,7 +8,6 @@ Xin chào! Mình là Khánh Phương, sinh viên lớp Tin 2A, Khoa Toán - Tin,
 ## Sở thích của mình
 - Chụp ảnh và chỉnh sửa ảnh, khám phá những góc đẹp trong thành phố
 - Học thêm ngoại ngữ và khám phá văn hóa, âm nhạc của các quốc gia khác
-Nếu muốn hay ho hơn một chút nhưng vẫn thực tế, có thể đổi cái cuối thành:
 - Khám phá tâm lý học và tìm hiểu cách con người giao tiếp, suy nghĩ và hành xử
 
 ## Thông tin liên hệ
