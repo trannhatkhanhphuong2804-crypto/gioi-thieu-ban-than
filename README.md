@@ -3,12 +3,14 @@
 ![Ảnh đại diện của tôi](anh-ca-nhan.jpg)
 
 ## Giới thiệu bản thân
-Xin chào! Mình là Khánh Phương, sinh viên lớp Tin 1A, Khoa Toán - Tin, Trường Đại học Sư phạm, Đại học Huế.
+Xin chào! Mình là Khánh Phương, sinh viên lớp Tin 2A, Khoa Toán - Tin, Trường Đại học Sư phạm, Đại học Huế.
 
 ## Sở thích của mình
-* Chụp ảnh Áo dài tại các di tích lịch sử ở Huế.
-* Khám phá văn hóa cà phê phin.
-* Thiết kế hình ảnh bằng AI và các công cụ giáo dục.
+- Chụp ảnh và chỉnh sửa ảnh, khám phá những góc đẹp trong thành phố
+- Tìm hiểu về cà phê, thử pha chế và khám phá các quán cà phê mới
+- Học thêm ngoại ngữ và khám phá văn hóa, âm nhạc của các quốc gia khác
+Nếu muốn hay ho hơn một chút nhưng vẫn thực tế, có thể đổi cái cuối thành:
+- Khám phá tâm lý học và tìm hiểu cách con người giao tiếp, suy nghĩ và hành xử
 
 ## Thông tin liên hệ
 * Email: trannhatkhanhphuong2804@gmail.com
